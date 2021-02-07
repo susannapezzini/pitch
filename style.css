@@ -13,11 +13,11 @@ body {
     padding: 0;
     width: 100vw;
     height: 100vh;
-    background-color: rgba(233, 45, 108, 0.4);
-    background-image: url(tinflix.png);
+    background-color: rgba(80, 222, 160, 0.2);
+    background-image: url(secret_spots.png);
     background-repeat: no-repeat;
-    background-size: 500px;
-    background-position: center 25%;
+    background-size: 400px;
+    background-position: center 20%;
     background-attachment: fixed;
 }
 
@@ -34,15 +34,17 @@ svg {
 }
 
 h1 {
-    font-family: 'Bebas Neue', monospace;
-    color: #000;
+    font-family: 'Poppins', monospace;
+    color: #3A4D52;
     margin: 0;
-    font-size: 4rem;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    letter-spacing: 3px;
 }
 
 p {
     font-family: 'Poppins', sans-serif;
-    color: #000;
+    color: #3A4D52;
     font-size: 1.2rem;
     margin: 0;
     line-height: 2.25rem;
@@ -51,6 +53,6 @@ p {
 
 .center {
     text-align: center;
-    font-size: 2rem;
-    line-height: 3rem;
+    font-size: 1.5rem;
+    line-height: 2.25rem;
 }
