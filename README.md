@@ -1,19 +1,25 @@
-# TIN-FLIX
-Your Netflix date in Tinder Range!
-Connect with people based on what you are watching
+# Secret Spots
+Don't miss out the best spots while visiting!
+
+Follow the map built by locals and experienced travelleres
+
+and fully enjoy the new place!
 
 ## PAIN 
-Did you just get in town, you don't know anybody and everything got locked down?
-Are you tired of apps that will connect you with people randomly?
+Are you tired of visiting all the touristic spots packed with people?
+
+Aren't you afraid of missing out on some beautiful view only known by locals?
 
 
 ## TARGET
-<strong>Young and lone travellers</strong>
-Bouncing places during a pandemic, experiencing different lockdowns
-Who don't have the chance to meet anybody :(
+Demanding travellers
+
+People who are used to travelling, who aim for unique experiences
 
 
 ## SOLUTION
-An app that will connect you with people in range, based on what you are watching on Netflix.
-Share your comments, get to know each other and face marathons together!
-An when the lockdown is over and you are still human, MEET THEM
+An app that will provide a complete map of the best (known and secret) spots of the place you are visiting
+
+Based on locals and other travelers experiences,
+
+Share your secret ;)
