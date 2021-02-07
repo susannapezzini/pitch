@@ -16,8 +16,8 @@ body {
     background-color: rgba(80, 222, 160, 0.2);
     background-image: url(secret_spots.png);
     background-repeat: no-repeat;
-    background-size: 500px;
-    background-position: center 25%;
+    background-size: 400px;
+    background-position: center 20%;
     background-attachment: fixed;
 }
 
